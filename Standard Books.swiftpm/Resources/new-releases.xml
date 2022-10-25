@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:schema="http://schema.org/">
+	<id>https://standardebooks.org/opds/new-releases</id>
+	<link href="/opds/new-releases" rel="self" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+	<link href="/opds" rel="start" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+	<link href="/opds" rel="up" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+	<link href="/opds/all" rel="http://opds-spec.org/crawlable" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+	<link href="/ebooks/opensearch" rel="search" type="application/opensearchdescription+xml"/>
+	<title>Newest 30 Standard Ebooks</title>
+	<subtitle>Free and liberated ebooks, carefully produced for the true book lover.</subtitle>
+	<icon>/images/logo.png</icon>
+	<updated>2022-05-24T16:48:38Z</updated>
+	<author>
+		<name>Standard Ebooks</name>
+		<uri>https://standardebooks.org</uri>
+	</author>
+	<entry>
+		<id>https://standardebooks.org/ebooks/oliver-goldsmith/the-vicar-of-wakefield</id>
+		<title>The Vicar of Wakefield</title>
+		<author>
+			<name>Oliver Goldsmith</name>
+			<uri>https://en.wikipedia.org/wiki/Oliver_Goldsmith</uri>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n79121384</schema:sameAs>
+		</author>
+		<dc:issued>2022-05-20T17:28:36Z</dc:issued>
+		<updated>2022-05-20T19:45:49Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/2667</dc:source>
+		<dc:source>https://archive.org/details/b2254677/</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">A country vicar and his family are subjected to a series of unfortunate events.</summary>
+		<content type="text/html">
+			<p>Though published in 1766, <i>The Vicar of Wakefield</i> was one of the most popular and widely-read books of the Victorian era. References to <i>Vicar</i> in Victorian literature abound: George Eliot, Austen, Dickens, Mary Shelly, Charlotte Brontë, Alcott, Goethe, and many more famous writers all mention <i>Vicar</i> in their books.</p>
+			<p>The plot concerns the titular vicar, Charles Primrose, a mild-mannered and forgiving man who lives with his family in a country parish. His prosperity comes from careful investments of his inheritance—but when one of his business partners goes bankrupt, the vicar finds himself suddenly impoverished.</p>
+			<p>Perhaps the reason for <i>Vicar</i>’s long-lasting appeal is its careful balance between its being interpreted as either a sincere sentimental novel, or a satire of sentimental novels. Primrose is an oblivious protagonist, totally helpless against the evil forces of the world that constantly buffet him and his family. Despite this, the almost-ridiculous plot always manages to find a deus ex machina to save him from his latest calamity. The plot is so unbelievable that the reader is led to think that <a href="https://standardebooks.org/ebooks/oliver-goldsmith">Goldsmith</a> <em>must</em> have meant <i>Vicar</i> as a satire—and yet the novel is so earnest that the reader is left wondering.</p>
+			<p>In the end, Primrose and his family serve as warnings to the reader to not be as heedless and powerless as they. The family’s constant deliverance from the disasters they blunder in to are Goldsmith’s way of saying that life is really not so <a href="https://standardebooks.org/ebooks/voltaire/candide/the-modern-library">Panglossian</a> as one might want to believe, and that bad things can and do happen to good people—though in real life, rarely does a hero appear for a last-minute rescue. This worldview, which is so contrary to the Victorian’s ideals of romance and sentimentalism, may be what made it so popular as a satire in that era.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="England -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Domestic fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Poor families -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Clergy -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Children of clergy -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Prisoners -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Abduction -- Fiction"/>
+		<link href="/ebooks/oliver-goldsmith/the-vicar-of-wakefield/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/oliver-goldsmith/the-vicar-of-wakefield/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/oliver-goldsmith/the-vicar-of-wakefield" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/oliver-goldsmith/the-vicar-of-wakefield/downloads/oliver-goldsmith_the-vicar-of-wakefield.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/oliver-goldsmith/the-vicar-of-wakefield/downloads/oliver-goldsmith_the-vicar-of-wakefield_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/oliver-goldsmith/the-vicar-of-wakefield/downloads/oliver-goldsmith_the-vicar-of-wakefield.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/oliver-goldsmith/the-vicar-of-wakefield/downloads/oliver-goldsmith_the-vicar-of-wakefield.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/oliver-goldsmith/the-vicar-of-wakefield/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/oliver-goldsmith/she-stoops-to-conquer</id>
+		<title>She Stoops to Conquer</title>
+		<author>
+			<name>Oliver Goldsmith</name>
+			<uri>https://en.wikipedia.org/wiki/Oliver_Goldsmith</uri>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n79121384</schema:sameAs>
+		</author>
+		<dc:issued>2022-05-17T18:47:27Z</dc:issued>
+		<updated>2022-05-17T18:47:29Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/383</dc:source>
+		<dc:source>https://archive.org/details/shestoopstoconq00goldgoog</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">Two young men visit the countryside: one to find a wife, and the other to avoid one.</summary>
+		<content type="text/html">
+			<p><i>She Stoops to Conquer</i> is one of the few 18th century plays that has stood the test of time. First produced in 1773 in Covent Garden, it has been revived many times—once even running for 1,777 performances in the 1860s.</p>
+			<p>The events take place over the course of a single evening in a country house where two young ladies await potential suitors. The young squire of the household, a prankster and layabout (and intended for one of the young ladies by the family matriarch), sets off a comic chain of mistaken identities and farcical intrigues when he encounters the potential suitors in a nearby tavern, and sends them to the house with the belief that they’re visiting an inn.</p>
+			<p>The impact of <i>She Stoops to Conquer</i> was such that it was heralded as restoring “laughing comedy” to the English stage after decades of sentimentality. It also stands as the origin of the phrase, “Ask me no questions and I’ll tell you no lies.”</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Comedies"/>
+		<link href="/ebooks/oliver-goldsmith/she-stoops-to-conquer/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/oliver-goldsmith/she-stoops-to-conquer/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/oliver-goldsmith/she-stoops-to-conquer" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/oliver-goldsmith/she-stoops-to-conquer/downloads/oliver-goldsmith_she-stoops-to-conquer.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/oliver-goldsmith/she-stoops-to-conquer/downloads/oliver-goldsmith_she-stoops-to-conquer_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/oliver-goldsmith/she-stoops-to-conquer/downloads/oliver-goldsmith_she-stoops-to-conquer.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/oliver-goldsmith/she-stoops-to-conquer/downloads/oliver-goldsmith_she-stoops-to-conquer.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/oliver-goldsmith/she-stoops-to-conquer/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/jane-austen/northanger-abbey</id>
+		<title>Northanger Abbey</title>
+		<author>
+			<name>Jane Austen</name>
+			<uri>https://en.wikipedia.org/wiki/Jane_Austen</uri>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n79032879</schema:sameAs>
+		</author>
+		<dc:issued>2022-05-16T17:07:12Z</dc:issued>
+		<updated>2022-05-20T17:11:21Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/121</dc:source>
+		<dc:source>https://archive.org/details/novelslettersofj00aust</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">A young girl with an overactive imagination comes of age.</summary>
+		<content type="text/html">
+			<p><i>Northanger Abbey</i> is the coming-of-age story of Catherine Morland, a seventeen-year-old girl who’s entering society for the first time. Despite her naivete, she quickly gains two potential suitors. We follow Catherine as she tries to navigate the difficulties of romance, friendship, and responsibility—problems amplified by the fact that Catherine views her world through the lens of the dramatic Gothic novels she loves to read. Austen deftly satirizes both the Gothic novels popular at the time (especially Ann Radcliffe’s <i>The Mysteries of Udolpho</i>), as well as contemporary society and woman’s role in it.</p>
+			<p>Completed in 1803, Northanger Abbey was the first of <a href="https://standardebooks.org/ebooks/jane-austen">Jane Austen’s</a> novels to be completed, but it was only published posthumously in 1817.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="England -- Social life and customs -- 19th century -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Satire"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="England -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Young women -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Love stories"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Gothic fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Horror tales -- Appreciation -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Books and reading -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Gentry -- England -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Marriage -- Economic aspects -- Fiction"/>
+		<link href="/ebooks/jane-austen/northanger-abbey/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/jane-austen/northanger-abbey/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/jane-austen/northanger-abbey" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/jane-austen/northanger-abbey/downloads/jane-austen_northanger-abbey.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/jane-austen/northanger-abbey/downloads/jane-austen_northanger-abbey_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/jane-austen/northanger-abbey/downloads/jane-austen_northanger-abbey.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/jane-austen/northanger-abbey/downloads/jane-austen_northanger-abbey.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/jane-austen/northanger-abbey/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/will-james/smoky-the-cowhorse</id>
+		<title>Smoky the Cowhorse</title>
+		<author>
+			<name>Will James</name>
+			<uri>https://en.wikipedia.org/wiki/Will_James</uri>
+			<schema:alternateName>William Roderick James</schema:alternateName>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n80005727</schema:sameAs>
+		</author>
+		<dc:issued>2022-05-13T21:19:47Z</dc:issued>
+		<updated>2022-05-14T20:10:17Z</updated>
+		<dc:language>en-US</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.fadedpage.com/showbook.php?pid=20190484</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/001516163</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">Smoky, a gray-colored horse, grows into adulthood on the ranges of the American West.</summary>
+		<content type="text/html">
+			<p>On an isolated range in the American West, a young horse named Smoky is born and raised. Allowed to run free for the first few years of his life, he’s later captured and tamed by a cowboy named Clint. Clint sees something special in Smoky, and quickly falls in love with the intelligent, wild young horse. As the years pass, Smoky must overcome many challenges ranging from mountain lions and winter storms to horse thieves and the greatest challenge the wilderness faces: modern society.</p>
+			<p>Winner of the 1927 Newbery Medal, <i>Smoky the Cowhorse</i> is <a href="https://standardebooks.org/ebooks/will-james">Will James’s</a> most famous book. Upon winning the award, James expressed surprise, because he had intended the book for adults.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Horses--Juvenile fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Horses--Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="West (U.S.)--Fiction"/>
+		<link href="/ebooks/will-james/smoky-the-cowhorse/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/will-james/smoky-the-cowhorse/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/will-james/smoky-the-cowhorse" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/will-james/smoky-the-cowhorse/downloads/will-james_smoky-the-cowhorse.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/will-james/smoky-the-cowhorse/downloads/will-james_smoky-the-cowhorse_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/will-james/smoky-the-cowhorse/downloads/will-james_smoky-the-cowhorse.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/will-james/smoky-the-cowhorse/downloads/will-james_smoky-the-cowhorse.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/will-james/smoky-the-cowhorse/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/sigfrid-siwertz/downstream/macmillan-of-canada</id>
+		<title>Downstream</title>
+		<author>
+			<name>Sigfrid Siwertz</name>
+			<uri>https://en.wikipedia.org/wiki/Sigfrid_Siwertz</uri>
+			<schema:alternateName>Per Sigfrid Siwertz</schema:alternateName>
+			<schema:sameAs>http://id.loc.gov/authorities/names/no95003719</schema:sameAs>
+		</author>
+		<dc:issued>2022-05-10T15:49:44Z</dc:issued>
+		<updated>2022-05-13T20:07:29Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/60685</dc:source>
+		<dc:source>https://archive.org/details/downstream00siwe</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">Five bourgeois Swedish siblings, linked by their ancestral home, attempt to forge different paths in life.</summary>
+		<content type="text/html">
+			<p>The five Selambs siblings have suffered the death of their mother and the incapacitation of their father, and consequently are left to fend for themselves, apart from the occasional check-in from both their guardian and the appointed manager of their ancestral estate. Perhaps unsurprisingly, none of them emerge unscathed from this upbringing, although the damage manifests itself in different and unforeseen ways. As they each attempt to forge their own path through the ranks of fin de siècle bourgeois Swedish society, it becomes apparent that none of them can escape the family traits of egoism and a desire for money regardless of ethics.</p>
+			<p>In this bildungsroman with five subjects, <a href="https://standardebooks.org/ebooks/sigfrid-siwertz">Siwertz</a> charts the societal and cultural changes he observed during his own adolescence and early adulthood in Stockholm and the surrounding areas. <i>Downstream</i> (titled in the Swedish original simply as <i>Selambs</i>) is perhaps his best known work from a broad corpus of novels, short stories, poems and plays, and has remained highly regarded. Siwertz himself became part of the Swedish literary establishment later in life, as a member of the Swedish Academy and the Nobel Prize for Literature committee.</p>
+			<p>This edition is based on the 1923 English translation by Macmillan of Canada.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Motherless families -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Brothers and sisters -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Swedish fiction -- Translations into English"/>
+		<link href="/ebooks/sigfrid-siwertz/downstream/macmillan-of-canada/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/sigfrid-siwertz/downstream/macmillan-of-canada/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/sigfrid-siwertz/downstream/macmillan-of-canada" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/sigfrid-siwertz/downstream/macmillan-of-canada/downloads/sigfrid-siwertz_downstream_macmillan-of-canada.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/sigfrid-siwertz/downstream/macmillan-of-canada/downloads/sigfrid-siwertz_downstream_macmillan-of-canada_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/sigfrid-siwertz/downstream/macmillan-of-canada/downloads/sigfrid-siwertz_downstream_macmillan-of-canada.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/sigfrid-siwertz/downstream/macmillan-of-canada/downloads/sigfrid-siwertz_downstream_macmillan-of-canada.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/sigfrid-siwertz/downstream/macmillan-of-canada/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/arnold-bennett/the-old-wives-tale</id>
+		<title>The Old Wives’ Tale</title>
+		<author>
+			<name>Arnold Bennett</name>
+			<uri>https://en.wikipedia.org/wiki/Arnold_Bennett</uri>
+			<schema:alternateName>Enoch Arnold Bennett</schema:alternateName>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n79095154</schema:sameAs>
+		</author>
+		<dc:issued>2022-05-10T02:59:51Z</dc:issued>
+		<updated>2022-05-10T02:59:54Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/5247</dc:source>
+		<dc:source>https://archive.org/details/oldwivestale00bennuoft</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">Two sisters growing up in an 1860s industrial town in Middle England find their lives taking very different, and dramatic, turns.</summary>
+		<content type="text/html">
+			<p><i>The Old Wives’ Tale</i>, considered to be one of <a href="https://standardebooks.org/ebooks/arnold-bennett">Bennett’s</a> finest works, begins in the 1860s, in the industrial “Five Towns” of the English Midlands, where he set many of his partially-autobiographical stories.</p>
+			<p>The novel follows the prosperous Baines family, who live above the successful clothing shop they own in the town of Bursley (based on Burslem, in Staffordshire). Even when the two Baines daughters were still young, their characters are already formed. Sophia has “youth, beauty, and rank in her favour,” while Constance is “foolishly good-natured,” with benevolence that is “eternally rising up and overpowering her reason.”</p>
+			<p>Their paths diverge quickly. While still in her teens, the headstrong Sophia elopes with a traveling salesman, leaving England’s provinces for Paris. Constance, who later marries the head employee at the store, hardly ever leaves their town—or even the square where their shop is located. As the novelist <abbr>J. B.</abbr> Priestley observed, this gently ironic and sprawling novel sets its “two suffering heroines” against “three conquering heroes, Time, Mutability, and Death.”</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Sisters -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Domestic fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Women -- England -- Fiction"/>
+		<link href="/ebooks/arnold-bennett/the-old-wives-tale/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/arnold-bennett/the-old-wives-tale/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/arnold-bennett/the-old-wives-tale" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/arnold-bennett/the-old-wives-tale/downloads/arnold-bennett_the-old-wives-tale.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/arnold-bennett/the-old-wives-tale/downloads/arnold-bennett_the-old-wives-tale_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/arnold-bennett/the-old-wives-tale/downloads/arnold-bennett_the-old-wives-tale.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/arnold-bennett/the-old-wives-tale/downloads/arnold-bennett_the-old-wives-tale.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/arnold-bennett/the-old-wives-tale/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/david-garnett/lady-into-fox</id>
+		<title>Lady Into Fox</title>
+		<author>
+			<name>David Garnett</name>
+			<uri>https://en.wikipedia.org/wiki/David_Garnett</uri>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n79096715</schema:sameAs>
+		</author>
+		<dc:issued>2022-05-10T02:16:55Z</dc:issued>
+		<updated>2022-05-10T02:16:58Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/10337</dc:source>
+		<dc:source>https://archive.org/details/ladyintofox0000garn</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">A newly-married young woman is suddenly transformed into a fox, to the consternation and enduring grief of her husband.</summary>
+		<content type="text/html">
+			<p>A newly-married couple are taking a leisurely walk through the woods in England when, without warning, the woman suddenly transforms into a fox. The grief-stricken husband does his best to look after his transformed wife after this astonishing change.</p>
+			<p>That’s the unlikely premise of <i>Lady Into Fox</i>. Other than the mysterious transformation of the woman, this short work is otherwise completely realistic, placing it in the category of contemporary fantasy or magic realism.</p>
+			<p>Published in 1922, the book quickly attracted critical attention and praise. It won both the <a href="https://standardebooks.org/collections/james-tait-black-memorial-fiction-prize-winners">James Tait Black Memorial Prize</a> and the <a href="https://standardebooks.org/collections/hawthornden-prize-winners">Hawthornden Prize</a>, and was included by the writer Rebecca West in a list of the “best imaginative productions” of the 1920s alongside <a href="https://standardebooks.org/ebooks/virginia-woolf">Virginia Woolf’s</a> <i>Orlando</i>.</p>
+			<p><i>Lady Into Fox</i> was turned into a ballet in 1939 by the choreographer Andrée Howard, with music based on piano pieces by Arthur Hoenegger. Performed by Ballet Rambert, it was apparently a success.</p>
+			<p>In 1960, a French writer using the pseudonym “Vercours” wrote a novel titled <i>Sylva</i> directly inspired by <a href="https://standardebooks.org/ebooks/david-garnett">Garnett’s</a> novel, in which the reverse transformation occurs: a fox on the run from a hunt is transformed into a naked young woman, who is taken in and cared for by the owner of a nearby manor. This novel, translated into English, was nominated for Best Novel in the Hugo Awards presented by the World Science Fiction Convention in 1963.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Fantasy fiction, English"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Metamorphosis -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Foxes -- Fiction"/>
+		<link href="/ebooks/david-garnett/lady-into-fox/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/david-garnett/lady-into-fox/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/david-garnett/lady-into-fox" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/david-garnett/lady-into-fox/downloads/david-garnett_lady-into-fox.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/david-garnett/lady-into-fox/downloads/david-garnett_lady-into-fox_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/david-garnett/lady-into-fox/downloads/david-garnett_lady-into-fox.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/david-garnett/lady-into-fox/downloads/david-garnett_lady-into-fox.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/david-garnett/lady-into-fox/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/edgar-rice-burroughs/the-son-of-tarzan</id>
+		<title>The Son of Tarzan</title>
+		<author>
+			<name>Edgar Rice Burroughs</name>
+			<uri>https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs</uri>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n80039681</schema:sameAs>
+		</author>
+		<dc:issued>2022-05-05T22:30:41Z</dc:issued>
+		<updated>2022-05-05T22:30:43Z</updated>
+		<dc:language>en-US</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/90</dc:source>
+		<dc:source>https://archive.org/details/sonoftarzan00burruoft</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">Upon discovering his father’s past life in the jungles of Africa, Tarzan’s son sets out to follow in his footsteps.</summary>
+		<content type="text/html">
+			<p>Following the events in <i><a href="https://standardebooks.org/ebooks/edgar-rice-burroughs/the-beasts-of-tarzan">The Beasts of Tarzan</a></i>, Tarzan and his wife, Jane, return to England to raise their infant son, Jack. Now, ten years later, Jane has refused to allow Tarzan to share his past in the jungles with their son for fear of awakening a desire in him to follow in his father’s footsteps. Unfortunately, Jack is already feeling drawn to Africa, and when one of Tarzan’s old friends surfaces, Jack is quick to set out on his own adventure.</p>
+			<p><i>The Son of Tarzan</i> was originally published as a serial in <i>All-Story Weekly</i> between December 4, 1915 and January 8, 1916. It’s the fourth book in the Tarzan series, and is only entry without Tarzan as the main character. Since its initial publication, the book has been adapted to both film and comics.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Tarzan (Fictitious character) -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Fantasy fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Adventure stories"/>
+		<link href="/ebooks/edgar-rice-burroughs/the-son-of-tarzan/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/edgar-rice-burroughs/the-son-of-tarzan/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/edgar-rice-burroughs/the-son-of-tarzan" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/edgar-rice-burroughs/the-son-of-tarzan/downloads/edgar-rice-burroughs_the-son-of-tarzan.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/edgar-rice-burroughs/the-son-of-tarzan/downloads/edgar-rice-burroughs_the-son-of-tarzan_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/edgar-rice-burroughs/the-son-of-tarzan/downloads/edgar-rice-burroughs_the-son-of-tarzan.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/edgar-rice-burroughs/the-son-of-tarzan/downloads/edgar-rice-burroughs_the-son-of-tarzan.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/edgar-rice-burroughs/the-son-of-tarzan/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/r-h-tawney/the-acquisitive-society</id>
+		<title>The Acquisitive Society</title>
+		<author>
+			<name>R. H. Tawney</name>
+			<uri>https://en.wikipedia.org/wiki/R._H._Tawney</uri>
+			<schema:alternateName>Tawney, Richard Henry</schema:alternateName>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n50008661</schema:sameAs>
+		</author>
+		<dc:issued>2022-05-05T20:52:50Z</dc:issued>
+		<updated>2022-05-05T21:10:06Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/33741</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/001309316</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">A discussion of the distinction between an Acquisitive Society, one guided by profits, and a Functional Society, one guided by service.</summary>
+		<content type="text/html">
+			<p>“The faith upon which our economic civilization reposes, the faith that riches are not a means to an end but an end, implies that all economic activity is equally estimable whether it is subordinated to a social purpose or not.”</p>
+			<p>So states <a href="https://standardebooks.org/ebooks/r-h-tawney">R. H. Tawney</a> in this treatise on the difference between an Acquisitive Society, one guided purely by profits, and a Functional Society, one guided by professional motives. In the former—which is largely the world we live in today—businesses are concerned only with making profit for their owners, who have little or no connection to the industry they own, and high-quality service and efficient use of labor is at best only a pleasant byproduct. Tawney contrasts this view of society with the latter society, in which businesses are run by professionals instead of owners. In this scenario, professional considerations not related to financial profit would lead to better service and higher efficiency, as well as happier workers.</p>
+			<p>As an executive of the socialist Fabian Society, Tawney was considered one of the most influential historians of the early twentieth century, especially in politics, where he was a major contributor to the British Labour Party. His influence extended beyond Britain as well, and he has been credited with influencing the policies of Swedish Social Democrats.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Social problems"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Economics"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Industries"/>
+		<link href="/ebooks/r-h-tawney/the-acquisitive-society/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/r-h-tawney/the-acquisitive-society/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/r-h-tawney/the-acquisitive-society" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/r-h-tawney/the-acquisitive-society/downloads/r-h-tawney_the-acquisitive-society.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/r-h-tawney/the-acquisitive-society/downloads/r-h-tawney_the-acquisitive-society_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/r-h-tawney/the-acquisitive-society/downloads/r-h-tawney_the-acquisitive-society.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/r-h-tawney/the-acquisitive-society/downloads/r-h-tawney_the-acquisitive-society.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/r-h-tawney/the-acquisitive-society/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/anthony-trollope/the-last-chronicle-of-barset</id>
+		<title>The Last Chronicle of Barset</title>
+		<author>
+			<name>Anthony Trollope</name>
+			<uri>https://en.wikipedia.org/wiki/Anthony_Trollope</uri>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n78089077</schema:sameAs>
+		</author>
+		<dc:issued>2022-05-04T21:52:13Z</dc:issued>
+		<updated>2022-05-04T21:52:15Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/3045</dc:source>
+		<dc:source>https://archive.org/details/lastchronicleofb02trolrich</dc:source>
+		<dc:source>https://archive.org/details/lastchronicleofb01trolrich</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">An impoverished clergyman is accused of theft, and this disgrace leads to great suffering for both his family and those that love them.</summary>
+		<content type="text/html">
+			<p><i>The Last Chronicle of Barset</i> is the sixth, and as its title would suggest, final novel in <a href="https://standardebooks.org/ebooks/anthony-trollope">Anthony Trollope’s</a> <a href="https://standardebooks.org/collections/chronicles-of-barsetshire">Chronicles of Barsetshire</a>. Like the earlier books, it was serialized in <i>Cornhill Magazine</i>, with a hardcover edition coming out in 1867. It brings together many of the characters who had appeared in series’ earlier novels, and rounds off a number of story threads that those novels began.</p>
+			<p>The primary storyline is concerned with the Reverend Josiah Crawley, who, as the book opens, has been accused of passing a check for twenty pounds, a check not made out to himself and whose possession he cannot account for. The accusation has significant implications for many of the other characters.</p>
+			<p><i>The Last Chronicle of Barset</i> was made into a television series released by the BBC in 1959. Along with the other novels in the series, it was made into a radio play released by Radio 4 in the United Kingdom in the 1990s.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="England -- Social life and customs -- 19th century -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Clergy -- England -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Psychological fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Love stories"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Domestic fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Clergy -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Barsetshire (England: Imaginary place) -- Fiction"/>
+		<link href="/ebooks/anthony-trollope/the-last-chronicle-of-barset/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/anthony-trollope/the-last-chronicle-of-barset/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/anthony-trollope/the-last-chronicle-of-barset" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/anthony-trollope/the-last-chronicle-of-barset/downloads/anthony-trollope_the-last-chronicle-of-barset.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/anthony-trollope/the-last-chronicle-of-barset/downloads/anthony-trollope_the-last-chronicle-of-barset_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/anthony-trollope/the-last-chronicle-of-barset/downloads/anthony-trollope_the-last-chronicle-of-barset.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/anthony-trollope/the-last-chronicle-of-barset/downloads/anthony-trollope_the-last-chronicle-of-barset.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/anthony-trollope/the-last-chronicle-of-barset/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill</id>
+		<title>The Autobiography of John Stuart Mill</title>
+		<author>
+			<name>John Stuart Mill</name>
+			<uri>https://en.wikipedia.org/wiki/John_Stuart_Mill</uri>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n79007044</schema:sameAs>
+		</author>
+		<dc:issued>2022-05-02T22:39:15Z</dc:issued>
+		<updated>2022-05-03T15:53:58Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/10378</dc:source>
+		<dc:source>https://archive.org/details/autobiography01carlgoog</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">The autobiography of English philosopher John Stuart Mill.</summary>
+		<content type="text/html">
+			<p><a href="https://standardebooks.org/ebooks/john-stuart-mill">John Stuart Mill</a> was one of the most influential philosophers of the 19th century. His more well-known works include <i><a href="https://standardebooks.org/ebooks/john-stuart-mill/on-liberty">On Liberty</a></i>, a highly-influential treatise applying the Utilitarian philosophy to systems of government, and <i><a href="https://standardebooks.org/ebooks/john-stuart-mill/the-subjection-of-women">The Subjugation of Women</a></i>, a treatise arguing for gender equality in an age where that was anything but the norm.</p>
+			<p>Besides these monumental works, he also produced <i>A System of Logic</i>, an important work on the philosophy of science, <i>Principles of Political Economy</i>, one of the most influential economics textbooks of the 19th century, and many other notable books of philosophy. When not composing profound tracts that would shape philosophy in the next century, he wrote volubly in various magazines and newspapers of the day, became the godfather of <a href="https://standardebooks.org/ebooks/bertrand-russell">Bertrand Russell</a>—himself the 20th century’s most prominent logician—and even spent time as a Member of Parliament, becoming the first M.P. in history to call for women to be given the right to vote.</p>
+			<p>But perhaps the most interesting part of Mill’s rich life is his education. His father, Utilitarian philosopher James Mill, raised John in a special mode of education purposefully designed to produce a genius, with the intent of making John the standard-bearer of Utilitarianism in the next generation. To this end he kept young John isolated from his school-age peers to prevent them from making him feel too smart, and gave John a rich classical, moral, and scientific education. By the age of three John was studying Greek, and by eight he was studying Latin and in charge of educating his younger siblings; by twelve, he was studying scholastic logic, and had already consumed nearly all of the major Greek and Latin classics in their original language. That James Mill’s unique method of education produced a genius is without a doubt, and John’s youthful experiences are recounted here in detail.</p>
+			<p>This short and to-the-point autobiography is a fascinating window into the life of one of the 19th century’s most important thinkers.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Mill, John Stuart, 1806-1873"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Philosophers -- England -- Biography"/>
+		<link href="/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/downloads/john-stuart-mill_the-autobiography-of-john-stuart-mill.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/downloads/john-stuart-mill_the-autobiography-of-john-stuart-mill_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/downloads/john-stuart-mill_the-autobiography-of-john-stuart-mill.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/downloads/john-stuart-mill_the-autobiography-of-john-stuart-mill.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/marie-belloc-lowndes/the-lodger</id>
+		<title>The Lodger</title>
+		<author>
+			<name>Marie Belloc Lowndes</name>
+			<uri>https://en.wikipedia.org/wiki/Marie_Belloc_Lowndes</uri>
+			<schema:alternateName>Marie Adelaide Elizabeth Rayner Lowndes</schema:alternateName>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n50043535</schema:sameAs>
+		</author>
+		<dc:issued>2022-04-30T17:06:09Z</dc:issued>
+		<updated>2022-05-06T15:42:49Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/2014</dc:source>
+		<dc:source>https://www.google.com/books/edition/The_Lodger/vmw6AQAAMAAJ</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">A maid and butler take in a mysterious, eccentric gentleman lodger around the time of the Jack the Ripper murders.</summary>
+		<content type="text/html">
+			<p><i>The Lodger</i> is the first known novelization of the Jack the Ripper story. It follows the lives of <abbr>Mr.</abbr> and <abbr>Mrs.</abbr> Bunting, a maid and butler. An eccentric lodger, <abbr>Mr.</abbr> Sleuth, arrives at their lodging-house just as a wave of horrific murders begins to sweep London. The Buntings become engrossed in the newspaper sensationalism as well the detailed accounts of their young friend, a Scotland Yard detective.</p>
+			<p><a href="https://standardebooks.org/ebooks/marie-belloc-lowndes">Lowndes</a> first wrote <i>The Lodger</i> as a short story published in <i>McClure’s Magazine</i>, then later published the novelization in the <i>Daily Telegraph</i> as a serial. It was very successful, with over a million copies sold within a few decades. Writers like <a href="https://standardebooks.org/ebooks/ernest-hemingway">Ernest Hemingway</a> and <a href="https://standardebooks.org/ebooks/gertrude-stein">Gertrude Stein</a> praised it, with one contemporary reviewer calling it “the best novel about murder written by any living author.” It has since been adapted to other media, notably as one of Alfred Hitchcock’s first movies. Today the novel is still considered the best fictional adaptation of the Jack the Ripper legend.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Detective and mystery stories"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Serial murders -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Whitechapel (London, England) -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Jack, the Ripper -- Fiction"/>
+		<link href="/ebooks/marie-belloc-lowndes/the-lodger/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/marie-belloc-lowndes/the-lodger/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/marie-belloc-lowndes/the-lodger" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/marie-belloc-lowndes/the-lodger/downloads/marie-belloc-lowndes_the-lodger.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/marie-belloc-lowndes/the-lodger/downloads/marie-belloc-lowndes_the-lodger_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/marie-belloc-lowndes/the-lodger/downloads/marie-belloc-lowndes_the-lodger.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/marie-belloc-lowndes/the-lodger/downloads/marie-belloc-lowndes_the-lodger.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/marie-belloc-lowndes/the-lodger/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/henryk-sienkiewicz/the-deluge/jeremiah-curtin</id>
+		<title>The Deluge</title>
+		<author>
+			<name>Henryk Sienkiewicz</name>
+			<uri>https://en.wikipedia.org/wiki/Henryk_Sienkiewicz</uri>
+			<schema:alternateName>Henryk Adam Aleksander Pius Sienkiewicz</schema:alternateName>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n50024588</schema:sameAs>
+		</author>
+		<dc:issued>2022-04-26T21:19:02Z</dc:issued>
+		<updated>2022-04-26T21:19:03Z</updated>
+		<dc:language>en-US</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/37198</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/37308</dc:source>
+		<dc:source>https://archive.org/details/delugeanhistori00siengoog</dc:source>
+		<dc:source>https://archive.org/details/delugeanhistori01siengoog</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">A Swedish invasion of 17th century Poland threatens the entire Commonwealth.</summary>
+		<content type="text/html">
+			<p>Six years after the events of <a href="https://standardebooks.org/ebooks/henryk-sienkiewicz/with-fire-and-sword/jeremiah-curtin"><i>With Fire and Sword</i></a> the Polish Commonwealth has recovered from the earlier bloody wars against the Cossacks and the Crimean Khanate, but the King is being kept busy by skirmishes on the Russian border. Unfortunately for the Commonwealth, this wealthy land is all too tempting for the Swedish king Karl Gustav who sweeps in to claim his prize, forcing soldiers and nobles to reconsider where their loyalties truly lie. This backdrop allows the impetuous Pan Andrei Kmita to demonstrate all sides of his loyalty and recklessness, even at the expense of his comrades and his fiancée Panna Aleksandra Billevich.</p>
+			<p><i>The Deluge</i> is the second book in <a href="https://standardebooks.org/ebooks/henryk-sienkiewicz">Henryk Sienkiewicz’s</a> <a href="https://standardebooks.org/collections/the-trilogy">trilogy of novels</a> dealing with a series of wars in seventeenth-century Poland. Written two years after <i>With Fire and Sword</i>, it was serialized in the newspaper that Sienkiewicz was editor-in-chief of, and started to cement his reputation as an novelist.</p>
+			<p>Throughout the Trilogy Sienkiewicz weaves historical events and people with fictional characters and stories to great effect; this mastery of the historical epic went on to earn him the Nobel Prize for Literature in 1905. This edition is based on the 1891 translation by Jeremiah Curtin.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Historical fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Poland -- History -- John II Casimir, 1648-1668 -- Fiction"/>
+		<link href="/ebooks/henryk-sienkiewicz/the-deluge/jeremiah-curtin/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/henryk-sienkiewicz/the-deluge/jeremiah-curtin/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/henryk-sienkiewicz/the-deluge/jeremiah-curtin" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/henryk-sienkiewicz/the-deluge/jeremiah-curtin/downloads/henryk-sienkiewicz_the-deluge_jeremiah-curtin.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/henryk-sienkiewicz/the-deluge/jeremiah-curtin/downloads/henryk-sienkiewicz_the-deluge_jeremiah-curtin_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/henryk-sienkiewicz/the-deluge/jeremiah-curtin/downloads/henryk-sienkiewicz_the-deluge_jeremiah-curtin.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/henryk-sienkiewicz/the-deluge/jeremiah-curtin/downloads/henryk-sienkiewicz_the-deluge_jeremiah-curtin.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/henryk-sienkiewicz/the-deluge/jeremiah-curtin/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/dorothy-m-richardson/pointed-roofs</id>
+		<title>Pointed Roofs</title>
+		<author>
+			<name>Dorothy M. Richardson</name>
+			<uri>https://en.wikipedia.org/wiki/Dorothy_M._Richardson</uri>
+			<schema:alternateName>Dorothy Miller Richardson</schema:alternateName>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n50051627</schema:sameAs>
+		</author>
+		<dc:issued>2022-04-26T20:34:39Z</dc:issued>
+		<updated>2022-04-30T05:34:45Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/3019</dc:source>
+		<dc:source>https://archive.org/details/pointedroofs00richuoft</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">Seventeen-year-old Miriam Henderson is sent to Germany to teach English at a finishing school in Hanover.</summary>
+		<content type="text/html">
+			<p><i>Pointed Roofs</i> is the first installment in <a href="https://standardebooks.org/ebooks/dorothy-m-richardson">Dorothy M. Richardson’s</a> <a href="https://standardebooks.org/collections/pilgrimage">Pilgrimage</a> sequence of autobiographical novels. It is also one of the first novels identified with the modernist technique of stream of consciousness.</p>
+			<p>Set in the early 1890s, <i>Pointed Roofs</i> centers on seventeen-year-old Miriam Henderson. After her family runs into financial troubles, Miriam is sent to Germany to teach English at a finishing school in Hanover. The narrative chronicles Miriam’s daily life at the school, as well as outings to the city and the countryside with the other teachers and pupils. All the while, it tells of her experience of living abroad, her attitude to the people around her, her future prospects, and her thoughts on religion, literature, and the status of women in society.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Autobiographical fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Women -- England -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="England -- Social life and customs -- 20th century -- Fiction"/>
+		<link href="/ebooks/dorothy-m-richardson/pointed-roofs/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/dorothy-m-richardson/pointed-roofs/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/dorothy-m-richardson/pointed-roofs" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/dorothy-m-richardson/pointed-roofs/downloads/dorothy-m-richardson_pointed-roofs.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/dorothy-m-richardson/pointed-roofs/downloads/dorothy-m-richardson_pointed-roofs_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/dorothy-m-richardson/pointed-roofs/downloads/dorothy-m-richardson_pointed-roofs.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/dorothy-m-richardson/pointed-roofs/downloads/dorothy-m-richardson_pointed-roofs.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/dorothy-m-richardson/pointed-roofs/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people</id>
+		<title>Darby O’Gill and the Good People</title>
+		<author>
+			<name>Herminie Templeton Kavanagh</name>
+			<uri>https://en.wikipedia.org/wiki/Herminie_Templeton_Kavanagh</uri>
+			<schema:sameAs>http://id.loc.gov/authorities/names/no96039489</schema:sameAs>
+		</author>
+		<dc:issued>2022-04-26T01:39:55Z</dc:issued>
+		<updated>2022-04-29T16:12:09Z</updated>
+		<dc:language>en-IE</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://en.wikisource.org/wiki/Darby_O%27Gill_and_the_Good_People</dc:source>
+		<dc:source>https://archive.org/details/darbyogillgoodpe00kavarich</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors.</summary>
+		<content type="text/html">
+			<p>When Tipperary man Darby O’Gill is imprisoned by the fairies of Sleive-na-mon in their home under the hollow mountain, he starts a lasting friendship with their King Brian Connors. Using the voice of a local story-teller, <a href="https://standardebooks.org/ebooks/herminie-templeton-kavanagh">Herminie Templeton Kavanagh</a> shares this series of tales of Darby and King Brian’s adventures. We follow Brian as his fairies are banished from Heaven for not taking sides as angels wage war against each other, and we follow Darby to face the Banshee in Croaghmah, the realm of ghosts and the final destination of the spectral death coach driven by its headless horseman. We join Darby as he matches wits with the crafty Leprechaun, and join King Brian as he debates philosophy with parish priest Father Cassidy. Pious Christianity, superstition, and pagan folklore are each real and important elements of Darby’s life and world. Reconciling them is a persistent theme in Kavanaugh’s stories, one that was largely absent from the classic children’s film that it inspired.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Ireland--Social life and customs--Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Fairy tales--Ireland"/>
+		<link href="/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/herminie-templeton-kavanagh_darby-ogill-and-the-good-people.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/herminie-templeton-kavanagh_darby-ogill-and-the-good-people_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/herminie-templeton-kavanagh_darby-ogill-and-the-good-people.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/downloads/herminie-templeton-kavanagh_darby-ogill-and-the-good-people.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/herminie-templeton-kavanagh/darby-ogill-and-the-good-people/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/theodore-roosevelt/the-rough-riders</id>
+		<title>The Rough Riders</title>
+		<author>
+			<name>Theodore Roosevelt</name>
+			<uri>https://en.wikipedia.org/wiki/Theodore_Roosevelt</uri>
+			<schema:alternateName>Theodore Roosevelt Jr.</schema:alternateName>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n79027239</schema:sameAs>
+		</author>
+		<dc:issued>2022-04-26T00:27:52Z</dc:issued>
+		<updated>2022-04-26T00:29:14Z</updated>
+		<dc:language>en-US</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/13000</dc:source>
+		<dc:source>https://archive.org/details/roughriders0000unse</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">The First United States Volunteer Cavalry fights in the Spanish–American War.</summary>
+		<content type="text/html">
+			<p>With the destruction of the <i>Maine</i> and other events leading to the Spanish–American War, <a href="https://standardebooks.org/ebooks/theodore-roosevelt">Theodore Roosevelt</a> resigned as Assistant Secretary of the Navy in order to go to the front. Under Colonel Leonard Wood, Roosevelt raised and trained the First United States Volunteer Cavalry, who were quickly nicknamed the “Rough Riders.” The regiment received a surplus of volunteers, with a mix of recruits ranging from Southwestern cowboys to Ivy League scholars.</p>
+			<p>Logistical difficulties challenged the regiment almost immediately in their transit to Cuba. Before sailing from Tampa, they were forced to leave behind four of the twelve total companies and almost all of their horses. As an officer, Roosevelt kept his horse, which he rode to lead the charge in the Battle of San Juan Hill. Roosevelt recalled the battle as “the great day of my life” and “my crowded hour.”</p>
+			<p>After winning the war, the onset of yellow fever, malaria, and other incapacitating diseases made it imperative to return the soldiers home quickly. Along with nine generals, Roosevelt drafted and signed a “round robin” letter, which was also published nationwide to turn public attention toward returning the troops. Back home, Roosevelt initially published the work serially in <i>Scribner’s Magazine</i> in 1899, and its popularity contributed to his rise as a national figure.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Spanish-American War, 1898 -- Regimental histories"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="United States. Army. Volunteer Cavalry, 1st"/>
+		<link href="/ebooks/theodore-roosevelt/the-rough-riders/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/theodore-roosevelt/the-rough-riders/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/theodore-roosevelt/the-rough-riders" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/theodore-roosevelt/the-rough-riders/downloads/theodore-roosevelt_the-rough-riders.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/theodore-roosevelt/the-rough-riders/downloads/theodore-roosevelt_the-rough-riders_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/theodore-roosevelt/the-rough-riders/downloads/theodore-roosevelt_the-rough-riders.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/theodore-roosevelt/the-rough-riders/downloads/theodore-roosevelt_the-rough-riders.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/theodore-roosevelt/the-rough-riders/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome</id>
+		<title>The Path to Rome</title>
+		<author>
+			<name>Hilaire Belloc</name>
+			<uri>https://en.wikipedia.org/wiki/Hilaire_Belloc</uri>
+			<schema:alternateName>Joseph Hilaire Pierre René Belloc</schema:alternateName>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n80046751</schema:sameAs>
+		</author>
+		<dc:issued>2022-04-20T22:15:18Z</dc:issued>
+		<updated>2022-04-29T22:03:24Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/7373</dc:source>
+		<dc:source>https://archive.org/details/pathtorome00belliala</dc:source>
+		<dc:source>https://archive.org/details/pathtorome00bell/</dc:source>
+		<dc:source>https://archive.org/details/pathtorome01bell/</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">Hilaire Belloc takes a walking pilgrimage to Rome from his hometown in France, writing of the journey, sketching the sights, and digressing on a wide variety of subjects.</summary>
+		<content type="text/html">
+			<p><i>The Path to Rome</i> is British-French writer and historian <a href="https://standardebooks.org/ebooks/hilaire-belloc">Hilaire Belloc’s</a> first travelogue. It describes the pilgrimage he took to Rome as the result of a vow he made while visiting his hometown of Toul, in Lorraine, France. In his own copy of the book, dated May 29, 1904, he notes: “I wrote this book for the glory of God.”</p>
+			<p>Belloc walked “two and a half hundred leagues” to Rome, over twenty-two days, and arrived in time to hear Mass on the Feast of Saints Peter and Paul. As he walks, he quickly discovers the difficulty of keeping every vow he made before starting, as the days are long, the mountains steep, and his finances stressed. But the book is far more than a simple travelogue; alongside the narrative of the journey, Belloc wanders into topics as varied as the art of writing, life in the military, his Catholic faith, the middle class, literary criticism, music, poetry, and more. His unique politics and personality shine in his many digressions and asides.</p>
+			<p><i>The Path to Rome</i> sold very well, and many critics have viewed it as the book that made Belloc’s name. His great friend <a href="https://standardebooks.org/ebooks/g-k-chesterton">G. K. Chesterton</a> said of it in <i>The World</i>: “<i>The Path to Rome</i> is the product of the actual and genuine buoyancy and thoughtlessness of a rich intellect. …”</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Italy -- Description and travel"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="France -- Description and travel"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Switzerland -- Description and travel"/>
+		<link href="/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/hilaire-belloc/the-path-to-rome/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/hilaire-belloc/the-path-to-rome" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/hilaire-belloc/the-path-to-rome/downloads/hilaire-belloc_the-path-to-rome.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/hilaire-belloc/the-path-to-rome/downloads/hilaire-belloc_the-path-to-rome_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/hilaire-belloc/the-path-to-rome/downloads/hilaire-belloc_the-path-to-rome.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/hilaire-belloc/the-path-to-rome/downloads/hilaire-belloc_the-path-to-rome.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/hilaire-belloc/the-path-to-rome/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/hugh-walpole/the-dark-forest</id>
+		<title>The Dark Forest</title>
+		<author>
+			<name>Hugh Walpole</name>
+			<uri>https://en.wikipedia.org/wiki/Hugh_Walpole</uri>
+			<schema:alternateName>Hugh Seymour Walpole</schema:alternateName>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n79151207</schema:sameAs>
+		</author>
+		<dc:issued>2022-04-19T03:27:53Z</dc:issued>
+		<updated>2022-05-02T15:06:45Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/19614</dc:source>
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.210152</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">An Englishman accompanies a group of doctors and nurses on the Russian side of the Eastern Front during World War I.</summary>
+		<content type="text/html">
+			<p>John Durward and John Trenchard are two Englishmen who join a company of Russian doctors, nurses, and orderlies working on the Russian side of the Eastern Front at the height of World War I. Durward, the primary narrator, is a detached and seemingly-objective observer of events; his friend Trenchard is a dreamy, clumsy, and naive man whose fiancee, Marie Ivanova, is serving alongside him as a nurse.</p>
+			<p>The narrative follows the unlikely group as they are embedded in the Front, treating casualties and cholera victims while dodging shellings and enemy ambushes. At first the group seems to get along well enough, until Semyonov, a dark, charismatic, hyper-masculine doctor in their company, sets his romantic sights on Ivanova.</p>
+			<p>As the medics desperately try to fulfill their duty among the brutal backdrop of the war, their intricate relationships become the centerpiece of a complex emotional narrative that winds through the dark forest, a symbol of the confusing shadows that can lie between even two people bonded by wartime.</p>
+			<p><a href="https://standardebooks.org/ebooks/hugh-walpole">Walpole</a> served in the Russian Red Cross on the Russian-Austrian front during World War I, and his real-life experiences are reflected in the narrative. On its publication <i>The Dark Forest</i> was called “the best picture of life in a field-ambulance on the Eastern Front that has yet been written” by the <i>Saturday Review</i>, and it was popular enough for Walpole to write a sequel, <a href="https://standardebooks.org/ebooks/hugh-walpole/the-secret-city"><i>The Secret City</i></a>, which went on to win the <a href="https://standardebooks.org/collections/james-tait-black-memorial-fiction-prize-winners">James Tait Black Memorial Prize for Fiction</a>.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Historical fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="World War, 1914-1918 -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="War stories"/>
+		<link href="/ebooks/hugh-walpole/the-dark-forest/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/hugh-walpole/the-dark-forest/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/hugh-walpole/the-dark-forest" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/hugh-walpole/the-dark-forest/downloads/hugh-walpole_the-dark-forest.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/hugh-walpole/the-dark-forest/downloads/hugh-walpole_the-dark-forest_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/hugh-walpole/the-dark-forest/downloads/hugh-walpole_the-dark-forest.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/hugh-walpole/the-dark-forest/downloads/hugh-walpole_the-dark-forest.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/hugh-walpole/the-dark-forest/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/harriet-beecher-stowe/uncle-toms-cabin</id>
+		<title>Uncle Tom’s Cabin</title>
+		<author>
+			<name>Harriet Beecher Stowe</name>
+			<uri>https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe</uri>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n79093331</schema:sameAs>
+		</author>
+		<dc:issued>2022-04-15T16:49:37Z</dc:issued>
+		<updated>2022-04-30T17:22:32Z</updated>
+		<dc:language>en-US</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/203</dc:source>
+		<dc:source>https://archive.org/details/uncletomscabi00stow</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">The account of several slaves who are sold to new owners after their current owner experiences financial hardship.</summary>
+		<content type="text/html">
+			<p>Faced with the possibility of financial ruin, slave owner Arthur Shelby decides to sell two of his slaves: Uncle Tom and a young boy named Harry. Eliza, Harry’s mother, makes the decision to run away while Uncle Tom decides that his moral duty is to submit to his master and cooperate with the sale. The story follows the diverging lives of these two slaves—Eliza’s flight to Canada and Uncle Tom’s journey into the deep south.</p>
+			<p>Eliza is accompanied by her husband, George, who also escaped from his owner at the same time. Together they must outrun bounty hunters and somehow make their way to freedom. Uncle Tom, on the other hand, must face the uncertainty of new owners and separation from his family, while somehow remaining true to his religious faith.</p>
+			<p>Upon its release, <i>Uncle Tom’s Cabin</i> sparked immediate criticism from slave owners and praise from abolitionists. Its influence was such that one apocryphal story claims that Abraham Lincoln, upon meeting <a href="https://standardebooks.org/ebooks/harriet-beecher-stowe">Stowe</a>, stated “so this is the little lady who started this great war.”</p>
+			<p>The book remains controversial, with critics pointing to Uncle Tom’s passive nature and the extensive use of racial stereotypes. Despite this, the novel’s influence is undeniable, and it helped pave the way for modern protest literature.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Slavery -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Didactic fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Political fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Master and servant -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="African Americans -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Southern States -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Fugitive slaves -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Plantation life -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Uncle Tom (Fictitious character) -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Slaves -- Fiction"/>
+		<link href="/ebooks/harriet-beecher-stowe/uncle-toms-cabin/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/harriet-beecher-stowe/uncle-toms-cabin/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/harriet-beecher-stowe/uncle-toms-cabin" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/harriet-beecher-stowe/uncle-toms-cabin/downloads/harriet-beecher-stowe_uncle-toms-cabin.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/harriet-beecher-stowe/uncle-toms-cabin/downloads/harriet-beecher-stowe_uncle-toms-cabin_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/harriet-beecher-stowe/uncle-toms-cabin/downloads/harriet-beecher-stowe_uncle-toms-cabin.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/harriet-beecher-stowe/uncle-toms-cabin/downloads/harriet-beecher-stowe_uncle-toms-cabin.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/harriet-beecher-stowe/uncle-toms-cabin/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/william-shakespeare/coriolanus</id>
+		<title>Coriolanus</title>
+		<author>
+			<name>William Shakespeare</name>
+			<uri>https://en.wikipedia.org/wiki/William_Shakespeare</uri>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n78095332</schema:sameAs>
+		</author>
+		<dc:issued>2022-04-12T03:17:55Z</dc:issued>
+		<updated>2022-04-25T22:58:13Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>http://shakespeare.mit.edu/coriolanus/full.html</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">A famous Roman general wants to run for consul.</summary>
+		<content type="text/html">
+			<p>Rome has transitioned from a monarchy to a republic. The last king of Rome was dead, and the Senate and rich aristocrats now control Rome. The citizens are starting to riot due to a food shortage. The plebeians blame the patrician Caius Marcius for hoarding grain and fixing prices, but Marcius believes the citizens don’t deserve grain if they’ve never served in the military. To calm the plebeians, five tribunes are chosen to represent the common people in legal matters. Soon after, a Volscian army attacks, and Marcius leaves the city to fight.</p>
+			<p>After a successful siege on the city of Corioli and the defeat of the Volscian army, Caius Marcius is rewarded with the name of Caius Marcius Coriolanus. He returns to Rome a hero, beloved by both the Senate the plebeians. Coriolanus is encouraged to pursue politics and run for consul, a position elected by the people. There are others, like the tribunes Brutus and Sicinius, who still remember Coriolanus’ disdain for the plebeians and view him as an enemy.</p>
+			<p>This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Tragedies"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Generals -- Drama"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Rome -- Drama"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Coriolanus, Cnaeus Marcius -- Drama"/>
+		<link href="/ebooks/william-shakespeare/coriolanus/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/william-shakespeare/coriolanus/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/william-shakespeare/coriolanus" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/william-shakespeare/coriolanus/downloads/william-shakespeare_coriolanus.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/william-shakespeare/coriolanus/downloads/william-shakespeare_coriolanus_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/william-shakespeare/coriolanus/downloads/william-shakespeare_coriolanus.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/william-shakespeare/coriolanus/downloads/william-shakespeare_coriolanus.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/william-shakespeare/coriolanus/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/voltairine-de-cleyre/poetry</id>
+		<title>Poetry</title>
+		<author>
+			<name>Voltairine de Cleyre</name>
+			<uri>https://en.wikipedia.org/wiki/Voltairine_de_Cleyre</uri>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n81062418</schema:sameAs>
+		</author>
+		<dc:issued>2022-04-12T02:48:07Z</dc:issued>
+		<updated>2022-05-10T02:26:30Z</updated>
+		<dc:language>en-US</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/43098</dc:source>
+		<dc:source>https://archive.org/details/selectedworksvo01havegoog</dc:source>
+		<dc:source>https://theanarchistlibrary.org/library/voltairine-de-cleyre-collected-poems</dc:source>
+		<dc:source>https://www.google.com/books/edition/Free_Thought_Magazine/KNOMrVNM4CgC</dc:source>
+		<dc:source>https://www.google.com/books/edition/The_Open_Court/711CAQAAMAAJ</dc:source>
+		<dc:source>https://www.google.com/books/edition/The_Open_Court/6qzQAAAAMAAJ</dc:source>
+		<dc:source>https://www.google.com/books/edition/The_Worm_Turns/wslHAQAAMAAJ</dc:source>
+		<dc:source>https://theanarchistlibrary.org/library/voltairine-de-cleyre-a-new-hope</dc:source>
+		<dc:source>https://archive.org/details/BostonInvestigator_1893-03-15</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">A collection of Voltairine de Cleyre’s poetry.</summary>
+		<content type="text/html">
+			<p><a href="https://standardebooks.org/ebooks/voltairine-de-cleyre">Voltairine de Cleyre</a> was a prominent American feminist anarchist active during the late 19th and early 20th centuries.</p>
+			<p>Despite (or, perhaps, because of) her childhood experience of being placed in a Catholic convent school, de Cleyre became a member of the anticlerical Freethought movement. Later, she became a member of the American anarchist movement after becoming outraged at the way defendants were sentenced at the 1886 Haymarket Affair trials. Influences on de Cleyre’s beliefs and writings included Mary Wollstonecraft and her lover and fellow anarchist Dyer Lum. She also shared a respectful disagreement with her fellow feminist anarchist <a href="https://standardebooks.org/ebooks/emma-goldman">Emma Goldman</a>, who eventually came to praise her as “the most gifted and brilliant anarchist woman America ever produced.”</p>
+			<p>Prominent themes in de Cleyre’s poetry include the Haymarket Affair and its aftermath (e.g. “At the Grave in Waldheim”), anti-clericalism (e.g. “The Gods and the People”) and women’s liberation (e.g. “Betrayed”). While largely ignored during most of the 20th century, interest in de Cleyre and her poetry has revived during the late 20th century, thanks in part to Paul Avrich’s 1978 biography, <i>An American Anarchist: The Life of Voltairine de Cleyre</i>.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Feminism -- Literary collections"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Anarchism -- Literary collections"/>
+		<link href="/ebooks/voltairine-de-cleyre/poetry/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/voltairine-de-cleyre/poetry/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/voltairine-de-cleyre/poetry" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/voltairine-de-cleyre/poetry/downloads/voltairine-de-cleyre_poetry.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/voltairine-de-cleyre/poetry/downloads/voltairine-de-cleyre_poetry_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/voltairine-de-cleyre/poetry/downloads/voltairine-de-cleyre_poetry.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/voltairine-de-cleyre/poetry/downloads/voltairine-de-cleyre_poetry.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/voltairine-de-cleyre/poetry/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold</id>
+		<title>The Crock of Gold</title>
+		<author>
+			<name>James Stephens</name>
+			<uri>https://en.wikipedia.org/wiki/James_Stephens_(author)</uri>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n79109238</schema:sameAs>
+		</author>
+		<dc:issued>2022-04-12T02:31:32Z</dc:issued>
+		<updated>2022-04-30T17:22:42Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/1605</dc:source>
+		<dc:source>https://archive.org/details/b1109137</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">A philosopher sets out to rescue the beautiful Caitilin Ni Murrachu from the god Pan in an adventure that involves leprechauns, Celtic gods, policemen, and philosophical disquisitions both profound and absurd.</summary>
+		<content type="text/html">
+			<p>When the ancient god Pan appears in Ireland and the beautiful Caitilin Ni Murrachu decides to follow him, her father asks an old philosopher to deliver her back. In his quest, the philosopher requests the help of the Celtic god of love, experiences catharsis, and is apprehended by policemen tipped off by leprechauns, provoking a second rescue mission—for himself.</p>
+			<p>It is through this humorous mixture of philosophy and Irish folklore that <a href="https://standardebooks.org/ebooks/james-stephens">James Stephens</a> presents deep philosophical questions and social commentary. The novel’s meandering plot sets the stage for contrasts between man and woman, city and countryside, and virtue and vice.</p>
+			<p>First published in 1912, <i>The Crock of Gold</i> is the book that established James Stephens’ fame.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Ireland -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Fairies -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Fantasy literature, Irish"/>
+		<link href="/ebooks/james-stephens/the-crock-of-gold/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/james-stephens/the-crock-of-gold/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/james-stephens/the-crock-of-gold" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/james-stephens/the-crock-of-gold/downloads/james-stephens_the-crock-of-gold.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/james-stephens/the-crock-of-gold/downloads/james-stephens_the-crock-of-gold_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/james-stephens/the-crock-of-gold/downloads/james-stephens_the-crock-of-gold.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/james-stephens/the-crock-of-gold/downloads/james-stephens_the-crock-of-gold.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/james-stephens/the-crock-of-gold/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/russell-thorndike/doctor-syn</id>
+		<title>Doctor Syn</title>
+		<author>
+			<name>Russell Thorndike</name>
+			<uri>https://en.wikipedia.org/wiki/Russell_Thorndike</uri>
+			<schema:alternateName>Arthur Russell Thorndike</schema:alternateName>
+			<schema:sameAs>http://id.loc.gov/authorities/names/no96026845</schema:sameAs>
+		</author>
+		<dc:issued>2022-04-09T16:23:39Z</dc:issued>
+		<updated>2022-04-15T15:52:24Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://en.wikisource.org/wiki/Doctor_Syn</dc:source>
+		<dc:source>https://archive.org/details/doctorsynsmuggle00thor</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">A king’s enforcer searching for smugglers uncovers the dark past of the inhabitants of a small English town.</summary>
+		<content type="text/html">
+			<p>Doctor Syn is a quiet, unassuming vicar in the small fishing village of Dymchurch-under-the-wall. He, his sexton Mipps, and the friendly villagers lead a simple life—until a frigate sent by the King lands at their docks, and an officious captain steps down into the village in search of smugglers.</p>
+			<p>As the captain and his crew investigate the tiny town of Dymchurch, the village is struck by a string of mysterious murders, and the king’s men soon find themselves embroiled in a dark conspiracy. The town and its quirky inhabitants may not be all that they seem.</p>
+			<p><a href="https://standardebooks.org/ebooks/russell-thorndike">Russell Thorndike</a> turned to fiction writing after serving in World War I. <i>Doctor Syn</i> is the first in his <a href="https://standardebooks.org/collections/doctor-syn">series of thirteen novels featuring the titular character</a>, though chronologically, the events in this novel are the epilogue to the series.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Smuggling -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Smugglers -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Romney Marsh (England: Marsh) -- Fiction"/>
+		<link href="/ebooks/russell-thorndike/doctor-syn/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/russell-thorndike/doctor-syn/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/russell-thorndike/doctor-syn" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/russell-thorndike/doctor-syn/downloads/russell-thorndike_doctor-syn.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/russell-thorndike/doctor-syn/downloads/russell-thorndike_doctor-syn_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/russell-thorndike/doctor-syn/downloads/russell-thorndike_doctor-syn.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/russell-thorndike/doctor-syn/downloads/russell-thorndike_doctor-syn.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/russell-thorndike/doctor-syn/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/walter-de-la-mare/memoirs-of-a-midget</id>
+		<title>Memoirs of a Midget</title>
+		<author>
+			<name>Walter de la Mare</name>
+			<uri>https://en.wikipedia.org/wiki/Walter_de_la_Mare</uri>
+			<schema:alternateName>Walter John de la Mare</schema:alternateName>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n80057178</schema:sameAs>
+		</author>
+		<dc:issued>2022-04-04T21:08:40Z</dc:issued>
+		<updated>2022-04-25T22:01:10Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/39122</dc:source>
+		<dc:source>https://books.google.com/books?id=WlCwprVPSWUC</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">A young woman just a few inches in height tries to navigate life and relationships following the death of her parents.</summary>
+		<content type="text/html">
+			<p><a href="https://standardebooks.org/ebooks/walter-de-la-mare">Walter de la Mare</a> was most famous for his uncanny fiction, and <i>Memoirs of a Midget</i> fits the description perfectly. The protagonist, who we know simply as “M.” or “Midgetina,” is a young woman just a few inches in height—though at times it seems that her height varies. Sometimes she’s small enough to be accosted by birds and carried on trays, and at other times it seems she’s large enough to ride horseback and even pass as a ten-year-old. She trips over hairbrushes, reads books that are larger than her, and must be especially careful around dogs and cats. The people around her seem to take this bizarre state of affairs in stride, and indeed, it’s the only truly uncanny quirk in an otherwise ornate, almost <a href="https://standardebooks.org/ebooks/henry-james">Jamesian</a> narrative.</p>
+			<p>The narrative follows Midgetina as she struggles to make her way in life after the tragic death of her parents. Even though she’s minuscule in size, she’s extremely sharp intellectually, taking an interest in literature, astronomy, natural science, and more. Her personality is so distinct that her minuscule stature becomes more of a symbol of her isolation, than the actual cause of it.</p>
+			<p>In time she moves in to rooms managed by a Dickensian landlady, whose peripatetic daughter, Fanny, becomes a friend to Midgetina, a possible love interest, and even a sometimes-antagonist. Fanny, a master of manipulation, seems to float through life gleefully and selfishly using those around her. Midgetina, desperate for human connection, clings to Fanny with an interest that at times has an almost erotic edge. Fanny’s subtle manipulations, careless cruelty, and effortless charm make her a character just as memorable as Midgetina, and a powerful antidote to Midgetina’s naive, yearning hopefulness.</p>
+			<p>Though largely forgotten today, <i>Memoirs of a Midget</i> was met with high praise from contemporary critics and went on to win the prestigious <a href="https://standardebooks.org/collections/james-tait-black-memorial-fiction-prize-winners">James Tait Black Memorial Prize for Fiction</a>. Modern critic Edward Wagenknecht regards it as “the greatest English novel of its time.”</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Psychological fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Young women -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Bildungsromans"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Circus performers -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Difference (Psychology) -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Short people -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Dwarfs -- Fiction"/>
+		<link href="/ebooks/walter-de-la-mare/memoirs-of-a-midget/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/walter-de-la-mare/memoirs-of-a-midget/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/walter-de-la-mare/memoirs-of-a-midget" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/walter-de-la-mare/memoirs-of-a-midget/downloads/walter-de-la-mare_memoirs-of-a-midget.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/walter-de-la-mare/memoirs-of-a-midget/downloads/walter-de-la-mare_memoirs-of-a-midget_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/walter-de-la-mare/memoirs-of-a-midget/downloads/walter-de-la-mare_memoirs-of-a-midget.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/walter-de-la-mare/memoirs-of-a-midget/downloads/walter-de-la-mare_memoirs-of-a-midget.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/walter-de-la-mare/memoirs-of-a-midget/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/p-g-wodehouse/golf-stories</id>
+		<title>Golf Stories</title>
+		<author>
+			<name>P. G. Wodehouse</name>
+			<uri>https://en.wikipedia.org/wiki/P.G._Wodehouse</uri>
+			<schema:alternateName>Pelham Grenville Wodehouse</schema:alternateName>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n78089036</schema:sameAs>
+		</author>
+		<dc:issued>2022-03-31T20:36:19Z</dc:issued>
+		<updated>2022-04-20T03:17:58Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/7028</dc:source>
+		<dc:source>https://archive.org/details/aclmku00000563a2212</dc:source>
+		<dc:source>https://archive.org/details/dli.ministry.13831</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/6768</dc:source>
+		<dc:source>https://archive.org/details/dli.ministry.16765</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">A collection of Wodehouse’s golf stories featuring the Oldest Member.</summary>
+		<content type="text/html">
+			<p><a href="https://standardebooks.org/ebooks/p-g-wodehouse">P. G. Wodehouse’s</a> short stories are often set in the salons and townhouses of England, but he also wrote about golf, returning again and again to one of his favorite sports.</p>
+			<p>Set against a background of the unique and often quirky world of golf in the early 1920s, Wodehouse produced a great collection of stories chronicling the loves and lives of golf fanatics. Starting around 1919 he wrote these golf stories regularly for both American and English magazines, and published two collections: <i>The Clicking of Cuthbert</i> (1922) and <i>The Heart of a Goof</i> (1926). He continued to write golf stories until the mid 1960s.</p>
+			<p>Most of these stories are narrated by The Oldest Member, a talkative type who frames most of the stories by trapping other members of the club into listening to his “words of wisdom.”</p>
+			<p>The stories in this collection are ordered by the date they first appeared in magazine form, and are mostly from the English editions—the main difference from the U.S. editions being the names and locations of the golf clubs.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Humorous stories"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Golf stories"/>
+		<link href="/ebooks/p-g-wodehouse/golf-stories/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/p-g-wodehouse/golf-stories/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/p-g-wodehouse/golf-stories" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/p-g-wodehouse/golf-stories/downloads/p-g-wodehouse_golf-stories.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/p-g-wodehouse/golf-stories/downloads/p-g-wodehouse_golf-stories_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/p-g-wodehouse/golf-stories/downloads/p-g-wodehouse_golf-stories.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/p-g-wodehouse/golf-stories/downloads/p-g-wodehouse_golf-stories.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/p-g-wodehouse/golf-stories/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/william-shakespeare/pericles</id>
+		<title>Pericles</title>
+		<author>
+			<name>William Shakespeare</name>
+			<uri>https://en.wikipedia.org/wiki/William_Shakespeare</uri>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n78095332</schema:sameAs>
+		</author>
+		<dc:issued>2022-03-28T02:33:52Z</dc:issued>
+		<updated>2022-04-15T15:52:26Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>http://shakespeare.mit.edu/pericles/full.html</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">A Tyrian prince flees after he discovers a terrible secret.</summary>
+		<content type="text/html">
+			<p>King Antiochus has issued a challenge to any suitor proposing marriage to his daughter: answer a seemingly-impossible riddle correctly, or die. Pericles, the Prince of Tyre, discovers the answer to the puzzle, but in doing so, he unearths the incestuous relationship between the king and his daughter. Pericles decides not to reveal the truth, and King Antiochus gives him forty days before his execution. When Antiochus hears that the prince has fled back to Tyre, he sends an assassin after him.</p>
+			<p>At the advice of his councilor, Helicanus, Pericles plans to travel until Antiochus no longer wants to kill him. On his journeys he encounters a brutal storm that leaves him shipwrecked in Pentapolis.</p>
+			<p>This play draws from many sources: <i>Confessio Amantis</i> by John Gower (who appears in the play as the chorus), <i><a href="https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant">The Odyssey</a></i>, Sir Philip Sidney’s <i>Arcadia</i>, and Plutarch’s <i>Lives</i>. The themes of separated families and mistaken death refer back to Shakespeare’s earlier plays, like <i><a href="https://standardebooks.org/ebooks/william-shakespeare/the-comedy-of-errors">The Comedy of Errors</a></i>.</p>
+			<p>This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Tragicomedy"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Princes -- Lebanon -- Tyre -- Drama"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Tyre (Lebanon) -- Drama"/>
+		<link href="/ebooks/william-shakespeare/pericles/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/william-shakespeare/pericles/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/william-shakespeare/pericles" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/william-shakespeare/pericles/downloads/william-shakespeare_pericles.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/william-shakespeare/pericles/downloads/william-shakespeare_pericles_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/william-shakespeare/pericles/downloads/william-shakespeare_pericles.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/william-shakespeare/pericles/downloads/william-shakespeare_pericles.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/william-shakespeare/pericles/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/oscar-wilde/lady-windermeres-fan</id>
+		<title>Lady Windermere’s Fan</title>
+		<author>
+			<name>Oscar Wilde</name>
+			<uri>https://en.wikipedia.org/wiki/Oscar_Wilde</uri>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n79042038</schema:sameAs>
+		</author>
+		<dc:issued>2022-03-28T00:05:18Z</dc:issued>
+		<updated>2022-04-15T15:52:23Z</updated>
+		<dc:language>en-GB</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/790</dc:source>
+		<dc:source>https://archive.org/details/ladywindermeresf00wildrich</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">A witty comedy that subverts the harsh social codes of Victorian England.</summary>
+		<content type="text/html">
+			<p>Lady Windermere, who suspects that her husband is having an affair, decides to leave him. Her erstwhile rival, Mrs. Erlynne, comes to her rescue, and convinces her to return to Lord Windermere before the situation becomes a scandal. In so doing, Mrs. Erlynne exposes <em>herself</em> to scandal, and must choose between her own reputation and saving the Windermeres’ relationship.</p>
+			<p><i>Lady Windermere’s Fan</i> was <a href="https://standardebooks.org/ebooks/oscar-wilde">Oscar Wilde’s</a> first hit play, and the first of his enormously popular comedies of society, which culminated with <i><a href="https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest">The Importance of Being Earnest</a></i>. It opened on February 20, 1892 at the St. James’s Theatre in London, and went on to tour the country for months.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Marriage -- Drama"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Mothers and daughters -- Drama"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Aristocracy (Social class) -- Drama"/>
+		<link href="/ebooks/oscar-wilde/lady-windermeres-fan/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/oscar-wilde/lady-windermeres-fan/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/oscar-wilde/lady-windermeres-fan" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/oscar-wilde/lady-windermeres-fan/downloads/oscar-wilde_lady-windermeres-fan.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/oscar-wilde/lady-windermeres-fan/downloads/oscar-wilde_lady-windermeres-fan_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/oscar-wilde/lady-windermeres-fan/downloads/oscar-wilde_lady-windermeres-fan.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/oscar-wilde/lady-windermeres-fan/downloads/oscar-wilde_lady-windermeres-fan.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/oscar-wilde/lady-windermeres-fan/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/alexandre-dumas/twenty-years-after/estes-and-lauriat</id>
+		<title>Twenty Years After</title>
+		<author>
+			<name>Alexandre Dumas</name>
+			<uri>https://en.wikipedia.org/wiki/Alexandre_Dumas</uri>
+			<schema:alternateName>Dumas Davy de la Pailleterie</schema:alternateName>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n79042162</schema:sameAs>
+		</author>
+		<dc:issued>2022-03-25T20:45:35Z</dc:issued>
+		<updated>2022-04-30T17:21:48Z</updated>
+		<dc:language>en-US</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/1259</dc:source>
+		<dc:source>https://books.google.com/books?id=_ClKAQAAMAAJ</dc:source>
+		<dc:source>https://books.google.com/books?id=EQUEAAAAYAAJ</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">Four musketeers are drawn back together by current events after many years apart, try to save Charles I from Cromwell, and are pursued by the now-grown son of a former female adversary.</summary>
+		<content type="text/html">
+			<p>Twenty years after Aramis, Athos, Porthos, and d’Artagnan went their separate ways, the new cardinal, Mazarin, asks d’Artagnan to find his three friends and enlist them to help Mazarin during the Fronde civil war. Only Porthos accepts, and the four musketeers soon find themselves on opposite sides of the conflict. This cannot, of course, last very long, and they ultimately join forces in England to try to rescue Charles I from Cromwell. Along the way, they are discovered and pursued by the son of Milady, their diabolical female adversary from <i><a href="https://standardebooks.org/ebooks/alexandre-dumas/the-three-musketeers/william-robson">The Three Musketeers</a></i>.</p>
+			<p>Though not as well known as the first installment, <i>Twenty Years After</i> continues the wit, charm, friendship, and most of all the adventures that <a href="https://standardebooks.org/ebooks/alexandre-dumas">Dumas</a> made famous in <i><a href="https://standardebooks.org/ebooks/alexandre-dumas/the-three-musketeers/william-robson">The Three Musketeers</a></i>.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Historical fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="France -- History -- Louis XIV, 1643-1715 -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Adventure stories"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Swordsmen -- Fiction"/>
+		<link href="/ebooks/alexandre-dumas/twenty-years-after/estes-and-lauriat/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/alexandre-dumas/twenty-years-after/estes-and-lauriat/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/alexandre-dumas/twenty-years-after/estes-and-lauriat" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/alexandre-dumas/twenty-years-after/estes-and-lauriat/downloads/alexandre-dumas_twenty-years-after_estes-and-lauriat.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/alexandre-dumas/twenty-years-after/estes-and-lauriat/downloads/alexandre-dumas_twenty-years-after_estes-and-lauriat_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/alexandre-dumas/twenty-years-after/estes-and-lauriat/downloads/alexandre-dumas_twenty-years-after_estes-and-lauriat.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/alexandre-dumas/twenty-years-after/estes-and-lauriat/downloads/alexandre-dumas_twenty-years-after_estes-and-lauriat.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/alexandre-dumas/twenty-years-after/estes-and-lauriat/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/sinclair-lewis/babbitt</id>
+		<title>Babbitt</title>
+		<author>
+			<name>Sinclair Lewis</name>
+			<uri>https://en.wikipedia.org/wiki/Sinclair_Lewis</uri>
+			<schema:alternateName>Geneviève Ségol</schema:alternateName>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n79023149</schema:sameAs>
+		</author>
+		<dc:issued>2022-03-23T17:44:36Z</dc:issued>
+		<updated>2022-04-26T17:17:43Z</updated>
+		<dc:language>en-US</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://www.gutenberg.org/ebooks/1156</dc:source>
+		<dc:source>https://archive.org/details/babbitt00lewiuoft</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">The novel offers a satirical description of the American middle class around 1920.</summary>
+		<content type="text/html">
+			<p>George F. Babbitt is a middle-aged realtor, family man, and resident of Zenith, a fictitious Midwestern city. His main preoccupation is to climb the social ladder by conforming to the norms of his environment. The novel depicts his daily routines and occasional misadventures in an unorthodox writing style, where the protagonist appears altogether foolish, funny, and pathetic.</p>
+			<p>This work was both celebrated as an incisive satire of American culture and criticized as an exaggeration, but was ultimately influential in <a href="https://standardebooks.org/ebooks/sinclair-lewis">Sinclair Lewis</a> being awarded the 1930 Nobel Prize in Literature.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Satire"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Psychological fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Businessmen -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Middle-aged men -- Fiction"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Conformity -- Fiction"/>
+		<link href="/ebooks/sinclair-lewis/babbitt/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/sinclair-lewis/babbitt/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/sinclair-lewis/babbitt" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/sinclair-lewis/babbitt/downloads/sinclair-lewis_babbitt.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/sinclair-lewis/babbitt/downloads/sinclair-lewis_babbitt_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/sinclair-lewis/babbitt/downloads/sinclair-lewis_babbitt.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/sinclair-lewis/babbitt/downloads/sinclair-lewis_babbitt.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/sinclair-lewis/babbitt/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+	<entry>
+		<id>https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker</id>
+		<title>What Is Property?</title>
+		<author>
+			<name>Pierre-Joseph Proudhon</name>
+			<uri>https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon</uri>
+			<schema:sameAs>http://id.loc.gov/authorities/names/n79043991</schema:sameAs>
+		</author>
+		<dc:issued>2022-03-22T20:37:46Z</dc:issued>
+		<updated>2022-04-15T15:52:24Z</updated>
+		<dc:language>en-US</dc:language>
+		<dc:publisher>Standard Ebooks</dc:publisher>
+		<dc:source>https://en.wikisource.org/wiki/What_is_Property%3F</dc:source>
+		<dc:source>https://archive.org/details/what-is-property</dc:source>
+		<rights>Public domain in the United States. Users located outside of the United States must check their local laws before using this ebook. Original content released to the public domain via the Creative Commons CC0 1.0 Universal Public Domain Dedication.</rights>
+		<summary type="text">Proudhon outlines the anarchist economic theory of mutualism.</summary>
+		<content type="text/html">
+			<p>“Property is robbery!” This slogan coined by the French political philosopher <a href="https://standardebooks.org/ebooks/pierre-joseph-proudhon">Pierre-Joseph Proudhon</a> is one of his answers to the titular question of his 1840 treatise, <i>What Is Property?</i> A fervent attack against the established order of capitalism and private property, the publication of <i>What Is Property?</i> almost immediately led to Proudhon’s official prosecution and the revocation of Proudhon’s scholarship by the Academy of Besançon. (Proudhon, an autodidact of humble origins who began his working life as a printer, relied on the scholarship for financial support.) Proudhon evaded the worst of the consequences thanks to the intervention of the economist Jérôme-Adolphe Blanqui, to whom the second memoir contained in the book is addressed.</p>
+			<p>In this treatise, Proudhon contrasts the legitimate right to <em>possession</em>, in which individuals own the products of their labor and the necessary means of production, and the illegitimate right to <em>property</em>, the absolute right granted to proprietors by civil laws to “use and abuse.” Proudhon examines the implications of the right to property and concludes that, among other things, property is “impossible,” “homicide,” and “the mother of tyranny.” As an alternative to both the proprietary and communist systems of economic organization, Proudhon advances his anarchist economic theory of “mutualism,” in which a socialist society would be organized based on free market exchanges wherein the value of a good or service is determined by the time and expense it has cost the laborer to produce.</p>
+			<p>This edition of <i>What Is Property?</i> was translated in 1876 by Benjamin Tucker, who was a notable advocate of individualist anarchism in his own right in the United States.</p>
+		</content>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Economics"/>
+		<category scheme="http://purl.org/dc/terms/LCSH" term="Property"/>
+		<link href="/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker/downloads/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg"/>
+		<link href="/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker/downloads/cover-thumbnail.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"/>
+		<link href="/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker" rel="related" title="This ebook’s page at Standard Ebooks" type="text/html"/>
+		<link href="/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker/downloads/pierre-joseph-proudhon_what-is-property_benjamin-tucker.epub" rel="http://opds-spec.org/acquisition/open-access" title="Recommended compatible epub" type="application/epub+zip"/>
+		<link href="/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker/downloads/pierre-joseph-proudhon_what-is-property_benjamin-tucker_advanced.epub" rel="http://opds-spec.org/acquisition/open-access" title="Advanced epub" type="application/epub+zip"/>
+		<link href="/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker/downloads/pierre-joseph-proudhon_what-is-property_benjamin-tucker.kepub.epub" rel="http://opds-spec.org/acquisition/open-access" title="Kobo Kepub epub" type="application/kepub+zip"/>
+		<link href="/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker/downloads/pierre-joseph-proudhon_what-is-property_benjamin-tucker.azw3" rel="http://opds-spec.org/acquisition/open-access" title="Amazon Kindle azw3" type="application/x-mobipocket-ebook"/>
+		<link href="/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker/text/single-page" rel="http://opds-spec.org/acquisition/open-access" title="XHTML" type="application/xhtml+xml"/>
+	</entry>
+</feed>
